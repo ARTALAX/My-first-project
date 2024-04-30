@@ -1,0 +1,35 @@
+.nav-link {
+	white-space: nowrap;
+}
+li .nav-link:hover {
+	color: #2364a9;
+}
+.dropdown-item:hover {
+	color: #2364a9;
+}
+a.nav-item:hover {
+	color: #2364a9;
+}
+body {
+	background-color: rgb(36, 35, 35) !important;
+}
+
+.text-center {
+	color: rgb(167, 167, 167) !important;
+}
+a {
+	color: rgb(167, 167, 167) !important;
+}
+.link-body-emphasis {
+	color: rgb(167, 167, 167) !important;
+}
+.dropdown-item:hover {
+	color: rgb(167, 167, 167);
+}
+h3,
+h1 {
+	color: rgb(203, 203, 203);
+}
+.black {
+	color: rgb(0, 0, 0);
+}
