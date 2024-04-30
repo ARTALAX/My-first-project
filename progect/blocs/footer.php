@@ -10,7 +10,7 @@
     <li class="nav-item"><a href="contact.php" class="nav-link px-2  px-2">Контакты</a></li>
     <li class="nav-item"><a href="creation.php" class="nav-link  px-2">Добавка рецепта</a></li>
   </ul>
-  <p class="text-center ">© 2024 Cookeasy.inc dfgdfdfываываываdffddfsdfsdf</p>
+  <p class="text-center ">© 2024 Cookeasy.inc</p>
 </footer>
 </body>
 
